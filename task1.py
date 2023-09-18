@@ -1,6 +1,7 @@
 arr = [1, 6, 3, 5, 2, 10]
 res = [10, 14, 10, 17]
 
+
 def SummuryOfN(arr, m):
     vec = []
     tmp = 0
