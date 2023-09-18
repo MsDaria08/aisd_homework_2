@@ -67,7 +67,7 @@ int main()
     vec.push(2);
     int k = 0;
 
-    std::cout << foo(vec, k);
+    std::cout << TimeOfBuyingTichets(vec, k);
 
     return 0;
 }
